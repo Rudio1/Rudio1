@@ -1,5 +1,4 @@
-##  > Guilherme Rudio <
-
+##  <center>Guilherme Rudio</center>
 
 - � Atualmente estou trabalhando com Desenvolvimento RPA (Robotic Process Automation)
 - � Buscando sempre conhecer adquirir novos tipos de conhecimentos
