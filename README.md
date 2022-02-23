@@ -2,7 +2,7 @@
 
 - � Atualmente estou trabalhando com Desenvolvimento RPA (Robotic Process Automation)
 - � Buscando sempre conhecer adquirir novos tipos de conhecimentos
-- � E-mail para contato = guilhermerudio6@gmail.com
+- � E-mail para contato: guilhermerudio6@gmail.com
 
 <div align="center">
   <a href="https://github.com/Rudio1">
