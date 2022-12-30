@@ -1,6 +1,5 @@
 ##  Guilherme Rudio
 
-- ✔ Atualmente estou trabalhando com Desenvolvimento RPA (Robotic Process Automation)
 - ✔ Buscando sempre conhecer e adquirir novos tipos de conhecimentos
 - ✉ E-mail para contato: guilhermerudio6@gmail.com
 
