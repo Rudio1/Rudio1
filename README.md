@@ -1,6 +1,5 @@
 ##  Guilherme Rudio
 
-- ✔ Buscando sempre conhecer e adquirir novos tipos de conhecimentos
 - ✉ E-mail para contato: guilhermerudio6@gmail.com
 
 <div align="center">
