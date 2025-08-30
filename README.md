@@ -20,13 +20,6 @@
   </a>
 </div>
 
-
----
-
-> "Nunca subestime o poder de um código bem escrito, E de uma xícara de café"
-
----
-
 🔧 **Tecnologias e Ferramentas que Eu Uso**:
 
 - **Linguagens**: PHP, JavaScript, C#, Python, Java
