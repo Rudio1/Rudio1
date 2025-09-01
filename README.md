@@ -6,7 +6,7 @@
   </a>
 
 - ✉ E-mail para contato: [guilhermerudio6@gmail.com](mailto:guilhermerudio6@gmail.com)
-- Site: [https://site.rudio1.com.br/](https://site.rudio1.com.br/)
+- Site: [https://guilherme.rudio1.com.br/](https://guilherme.rudio1.com.br/)
 
 <div align="right">
   <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" alt="Coder GIF" height="200"/>
